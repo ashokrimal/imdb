@@ -5,3 +5,4 @@ export default function Home() {
     <div>Home</div>
   )
 }
+export const dynamic = 'force-dynamic'
